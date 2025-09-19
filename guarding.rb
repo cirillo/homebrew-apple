@@ -1,9 +1,10 @@
 class Guarding < Formula
     desc "RC"
     homepage "https://github.com/cirillo/"
-    url "https://github.com/cirillo/homebrew-apple/raw/refs/heads/main/guarding-1.0.1.tar.gz"
-    sha256 "3fcf081826628b93a4143638046873fc58b5733172cd003db27436614cb49bcc"
-    version "1.0.1"
+    url "https://github.com/cirillo/homebrew-apple/raw/refs/heads/main/guarding-1.0.2.tar.gz"
+            
+    sha256 "10e0a4044f0bbf699823dc6394049bfda9e6df54c21869aaad7248cec784c113"
+    version "1.0.2"
     
     depends_on "python@3.13" => [:build, :test]
 
@@ -30,4 +31,3 @@ Then reopen your terminal app
         EOS
     end
     end
-
