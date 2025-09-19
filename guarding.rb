@@ -1,7 +1,7 @@
 class Guarding < Formula
     desc "RC"
     homepage "https://github.com/cirillo/"
-    url "https://tap.sneaky-tech.com/releases/guarding-1.0.1.tar.gz
+    url "https://github.com/cirillo/homebrew-apple/raw/refs/heads/main/guarding-1.0.1.tar.gz"
     sha256 "3fcf081826628b93a4143638046873fc58b5733172cd003db27436614cb49bcc"
     version "1.0.1"
     
@@ -30,3 +30,4 @@ Then reopen your terminal app
         EOS
     end
     end
+
