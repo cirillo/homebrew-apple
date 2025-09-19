@@ -1,10 +1,10 @@
 class Guarding < Formula
     desc "RC"
     homepage "https://github.com/cirillo/"
-    url "https://github.com/cirillo/homebrew-apple/raw/refs/heads/main/guarding-1.0.2.tar.gz"
+    url "https://github.com/cirillo/homebrew-apple/raw/refs/heads/main/guarding-1.0.3.tar.gz"
             
-    sha256 "6aaba9a7f3126610bef0bffcb9352d32f5cc152987ee2133511a91ba707f1b61"
-    version "1.0.2"
+    sha256 "afa6468609fbd772e51dbec80c651a5f60077a8f8636d8ae9bd297a7d1144bfc"
+    version "1.0.3"
     
     depends_on "python@3.13" => [:build, :test]
 
