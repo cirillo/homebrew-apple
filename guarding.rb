@@ -3,7 +3,7 @@ class Guarding < Formula
     homepage "https://github.com/cirillo/"
     url "https://github.com/cirillo/homebrew-apple/raw/refs/heads/main/guarding-1.0.2.tar.gz"
             
-    sha256 "10e0a4044f0bbf699823dc6394049bfda9e6df54c21869aaad7248cec784c113"
+    sha256 "6aaba9a7f3126610bef0bffcb9352d32f5cc152987ee2133511a91ba707f1b61"
     version "1.0.2"
     
     depends_on "python@3.13" => [:build, :test]
